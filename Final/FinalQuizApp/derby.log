@@ -1,0 +1,27 @@
+Tue Oct 05 18:27:13 BDT 2021 : Apache Derby Network Server - 10.14.2.0 - (1828579) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Tue Oct 05 18:27:13 BDT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017c-506c-1506-ffffe10cc0f4 
+on database directory F:\2.1\CSE 2100 Software Development-II\Final\FinalQuizApp\ADNAN with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_271/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_271-b09
+user.dir=C:\Program Files\Java\jdk1.8.0_271\db-derby-10.14.2.0-bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=F:\2.1\CSE 2100 Software Development-II\Final\FinalQuizApp
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Oct 05 18:27:15 BDT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance e0b94027-017c-506c-1506-ffffe10cc0f4 
+on database directory F:\2.1\CSE 2100 Software Development-II\Final\FinalQuizApp\STUDENT with class loader sun.misc.Launcher$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_271/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_271-b09
+user.dir=C:\Program Files\Java\jdk1.8.0_271\db-derby-10.14.2.0-bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=F:\2.1\CSE 2100 Software Development-II\Final\FinalQuizApp
+Database Class Loader started - derby.database.classpath=''
