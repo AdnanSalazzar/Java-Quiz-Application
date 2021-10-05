@@ -1,0 +1,2 @@
+# Java-Quiz-Application
+Software Development Lab-2 Project (CSE 2100).  Quiz Application   Semester: 2.1  CSE 44 Batch,  Ahsanullah University of Science &amp; Technology.  Team Member: Imranul Islam Adnan  &amp; Farhana Hossain Swarnali     Platform: Netbeans IDE 12.2  Language: Java  Library: Java Swing  Database: Apache Derby    Thanks to Sajib Kumar Saha Joy Sir &amp; Md. Reasad Zaman Chowdhury Sir.    #university #project #softwaredevelopment 
